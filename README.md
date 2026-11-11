@@ -7,7 +7,7 @@ Small Rails app with **Users** and **Microposts**, session-based authentication,
 | Component | Version / notes |
 | --- | --- |
 | Ruby | 3.4.4 (see `.ruby-version`) |
-| Rails | 8.0.5 |
+| Rails | 8.1.4.1 |
 | Assets | Propshaft + Importmap + Turbo + Stimulus |
 | Auth | `has_secure_password` (bcrypt) |
 | Dev / test DB | SQLite |
